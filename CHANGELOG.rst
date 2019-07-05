@@ -2,8 +2,8 @@
 Changelog for package optris_drivers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.2 (2019-07-05)
+------------------
 * more deps
 * more deps
 * added udev as a hack to work around broken irlibimager
