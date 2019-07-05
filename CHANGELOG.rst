@@ -2,8 +2,8 @@
 Changelog for package optris_drivers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.1 (2019-07-05)
+------------------
 * install targets
 * fixed deps
 * changelogs
