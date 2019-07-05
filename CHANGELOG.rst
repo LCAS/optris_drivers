@@ -4,6 +4,9 @@ Changelog for package optris_drivers
 
 Forthcoming
 -----------
+* install targets
+* fixed deps
+* changelogs
 * updated maintainer
 * removed serial number from launchfile --> accept every serial number attached
 * -- minor changes so pi80 and the new 4 SDK is supported
