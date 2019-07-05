@@ -38,7 +38,7 @@
   <build_depend>libirimager</build_depend>
   <build_depend>libudev-dev</build_depend>
   <build_depend>udev</build_depend>
-  <build_depend>libusb-1.0</build_depend>
+  <build_depend>libusb-1.0-dev</build_depend>
   <build_depend>camera_info_manager</build_depend>
 
   <!-- runtime dependencies -->
@@ -51,7 +51,7 @@
   <run_depend>dynamic_reconfigure</run_depend>
   <run_depend>libudev-dev</run_depend>
   <run_depend>udev</run_depend>
-  <run_depend>libusb-1.0</run_depend>
+  <run_depend>libusb-1.0-dev</run_depend>
   <run_depend>camera_info_manager</run_depend>
 </package>
 
