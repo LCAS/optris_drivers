@@ -77,9 +77,7 @@ catkin_package(
   message_runtime
   camera_info_manager
  DEPENDS
-  libudev-dev
   Boost
-  usb-1.0
 )
 
 ###########
